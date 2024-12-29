@@ -10,7 +10,8 @@
     },
     "dependencies": {
         "@sentry/browser": "^8.41.0",
-        "solid-js": "^1.8.22"
+        "solid-js": "^1.8.22",
+        "three": "^0.155.0"
     },
     "devDependencies": {
         "autoprefixer": "^10.4.20",
